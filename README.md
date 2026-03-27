@@ -130,12 +130,3 @@ plant-disease-classification/
 ## Démarche personnelle
 Ce projet s’inscrit dans une démarche proactive d’apprentissage. Il m’a permis de consolider mes bases en Deep Learning et de développer des compétences concrètes en Computer Vision.
 
-Je suis actuellement à la recherche d’une alternance dans les domaines du Machine Learning, de la Data Science ou de l’Intelligence Artificielle, afin de continuer à progresser et contribuer à des projets concrets.
-
-## Auteur
-Nom : Votre Nom  
-GitHub : https://github.com/votre-username  
-LinkedIn : https://linkedin.com/in/votre-profil  
-
-## Licence
-Projet réalisé à des fins d’apprentissage et de démonstration.
